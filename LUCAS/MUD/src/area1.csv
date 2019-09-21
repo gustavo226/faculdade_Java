@@ -1,0 +1,4 @@
+0;"Lobby";"Lobby espaçoso, porém escuro";-1;-1;1;-1
+1;"Corredor";"Corredor bastante longo e com várias portas ao longo de sua extenção, uma porta no final encontra-se aberta";2;-1;-1;-1
+2;"Suíte";"Esta suíte encontra-se toda revirada. Alguém esteve aqui antes procurando algo...?";-1;-1;-1;3
+3;"Banheiro";"O banheiro também está revirado, um buraco na parede chama sua atenção, talvez ele dê em algum outro lugar...";-1;0;-1;-1
